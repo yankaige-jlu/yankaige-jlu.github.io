@@ -49,6 +49,7 @@ hr.style1{
   font-family: "Open sans", Helvetica, Arial, sans-serif;
   font-weight: 300;
   text-transform: uppercase;
+  border-bottom:1px solid rgb(0,0,0);
 }
 .navbar-collapse .navbar-nav {
   float: none;
