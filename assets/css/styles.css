@@ -59,6 +59,7 @@ hr.style1{
 .navbar-collapse .navbar-nav > li {
   float: none;
   display: inline-block;
+  text-decoration: none;
 }
 .navbar-collapse .navbar-nav > li > a {
   padding: 20px 30px;
