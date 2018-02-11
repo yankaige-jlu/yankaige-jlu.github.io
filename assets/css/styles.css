@@ -63,6 +63,7 @@ hr.style1{
 }
 .navbar-collapse .navbar-nav > li > a {
   padding: 20px 30px;
+  text-decoration: none;
 }
 .dropdown ul.dropdown-menu {
   top: 85%;
