@@ -49,20 +49,18 @@ hr.style1{
   font-family: "Open sans", Helvetica, Arial, sans-serif;
   font-weight: 300;
   text-transform: uppercase;
-  border-bottom:1px solid rgb(0,0,0);
 }
 .navbar-collapse .navbar-nav {
   float: none;
   margin: 0 auto;
+
 }
 .navbar-collapse .navbar-nav > li {
   float: none;
   display: inline-block;
-  text-decoration: none;
 }
 .navbar-collapse .navbar-nav > li > a {
   padding: 20px 30px;
-  text-decoration: none;
 }
 .dropdown ul.dropdown-menu {
   top: 85%;
@@ -374,7 +372,7 @@ img {
   margin: 0;
 }
 .panel-cta .panel-body {
-  padding: 35px;
+  padding: 20px;
 }
 /* Section - Featured */
 .featured {
@@ -785,9 +783,9 @@ footer.entry-meta .meta-in {
   margin: 0 0 20px;
 }
 #underfooter {
-  background: #191919;
+  background: #f3f3f3;
   padding: 15px 0;
-  color: #777;
+  color: #0;
   font-size: 12px;
 }
 #underfooter a {
